@@ -1,8 +1,3 @@
-# React + Vite
+# Intaractive Rating Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto envolve a criação de um componente de avaliação interativa que permite que os usuários classifiquem algo com estrelas de 1 a 5. Foi desenvolvido como parte de um desafio do [Frontend Mentor](https://www.frontendmentor.io) para aprimorar habilidades em tecnologias como React e Styled Components.
